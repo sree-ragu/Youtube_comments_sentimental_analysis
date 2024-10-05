@@ -131,7 +131,8 @@ def extract_video_id(url):
 
 def ytlink():
     # Prompt the user for the YouTube API key
-    API_KEY = 'AIzaSyAO0H7J5dFLJcuDQ7_B-puhXdmY-9D0Dnw'
+
+    API_KEY = 'API-KEY'
     #title
     st.title("Sentimental Analysis of Youtube Video ")  
     # Prompt the user for the YouTube video URL
